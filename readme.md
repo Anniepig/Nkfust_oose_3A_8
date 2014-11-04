@@ -675,7 +675,8 @@ SelecShowt(ShowNo)<br>
 
 #彈出視窗-你可能有興趣的展覽之系統循序圖(圖6.13 p170)#
 
-
+###瀏覽展覽資訊 使用案例描述###
+<p><img src="https://lh3.googleusercontent.com/-PAV1wq7bkxU/VFj-DZ0cnfI/AAAAAAAAANU/3q8poGAUPh0/w242-h552-no/1%E6%B5%81%E8%A6%BD%E5%B1%95%E8%A6%BD%E8%B3%87%E8%A8%8A.png"></p>
 
 
 
