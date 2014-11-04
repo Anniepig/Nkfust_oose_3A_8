@@ -1,14 +1,15 @@
 
 ###瀏覽展覽資訊 使用案例描述###
-<p align="center"><img src="http://farm4.staticflickr.com/3952/15708878441_22bcddaa72_b.jpg"></p>
+<p align="center"><img src="http://farm8.staticflickr.com/7522/15091609953_bc07f2accf_b.jpg"></p>
 ###新增展覽資訊作業 使用案例描述###
-<p align="center"><img src="http://farm4.staticflickr.com/3955/15091425103_10b46f4e70_b.jpg"></p>
+<p align="center"><img src="http://farm4.staticflickr.com/3949/15712529242_8e22e3f804_b.jpg"></p>
 ###活動及優惠專區 使用案例描述###
-<p align="center"><img src="http://farm8.staticflickr.com/7575/15710784085_5829dc8f93_b.jpg"></p>
+<p align="center"><img src="http://farm8.staticflickr.com/7540/15091026964_562f8ce7e6_b.jpgg"></p>
 ###使用評論功能 使用案例描述###
-<p align="center"><img src="http://farm4.staticflickr.com/3937/15524914689_15c55a3155_b.jpg"></p>
+<p align="center"><img src="http://farm4.staticflickr.com/3955/15710967295_a5b03791c3_b.jpg"></p>
 ###會員帳號系統 使用案例描述###
-<p align="center"><img src="http://farm8.staticflickr.com/7505/15712347162_732117825f_b.jpg"></p>
+<p align="center"><img src="http://farm4.staticflickr.com/3953/15525096439_e67e5c1bde_b.jpg"></p>
+
 
 ###瀏覽展覽資訊 使用案例圖###
 <p align="center"><img src="http://farm4.staticflickr.com/3949/15710827235_7fbf54e13c_b.jpg"></p>
@@ -70,4 +71,11 @@
 <p align="center"><img src="http://farm4.staticflickr.com/3943/15687199416_701ba9a7d9_b.jpg"></p>
 
 
-
+###新增展覽資訊作業 各作業之系統循序圖###
+<p align="center"><img src="http://farm8.staticflickr.com/7565/15525779297_c0b0a59756_b.jpg"></p>
+###活動及優惠專區 各作業之系統循序圖###
+<p align="center"><img src="http://farm8.staticflickr.com/7479/15091028924_ff950e985a_b.jpg"></p>
+###使用評論功能 各作業之系統循序圖###
+<p align="center"><img src="http://farm8.staticflickr.com/7481/15091611353_6794ff9f96_b.jpg"></p>
+###會員帳號系統 各作業之系統循序圖###
+<p align="center"><img src="http://farm6.staticflickr.com/5610/15525098409_c09e586715_b.jpg"></p>
