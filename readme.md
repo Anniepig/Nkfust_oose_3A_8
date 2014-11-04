@@ -1,3 +1,5 @@
+###使用案例圖###
+<p align="center"><img src="http://farm4.staticflickr.com/3955/15091051374_4a4d1c0d35_b.jpg"></p>
 
 ###瀏覽展覽資訊 使用案例描述###
 <p align="center"><img src="http://farm8.staticflickr.com/7522/15091609953_bc07f2accf_b.jpg"></p>
