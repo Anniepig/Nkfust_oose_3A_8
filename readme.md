@@ -54,6 +54,8 @@
 
 
 ###柒、名詞與概念類別列舉表###
+###瀏覽展覽資訊 名詞與概念類別列舉表###
+<p align="center"><img src="http://farm4.staticflickr.com/3952/15091568573_01c8f2b4b9_b.jpg"></p>
 ###新增展覽資訊作業 名詞與概念類別列舉表###
 <p align="center"><img src="http://farm8.staticflickr.com/7472/15524976449_0fae836bfb_b.jpg"></p>
 ###活動及優惠專區 名詞與概念類別列舉表###
@@ -88,32 +90,41 @@
 ###會員帳號系統英文名稱初步類別圖###
 <p align="center"><img src="http://farm6.staticflickr.com/5616/15090945084_cea1dfaeed_b.jpg"></p>
 
-
-###新增展覽資訊作業 各作業主要成功情節之英文名稱事件對應###
+***
+###拾、各作業主要成功情節之英文名稱事件對應###
+###瀏覽展覽資訊主要成功情節之英文名稱事件對應###
+<p align="center"><img src="http://farm8.staticflickr.com/7566/15710030141_089803a24b_b.jpg"></p>
+###新增展覽資訊作業主要成功情節之英文名稱事件對應###
 <p align="center"><img src="http://farm6.staticflickr.com/5597/15712464642_5695ff9af4_b.jpg"></p>
-###活動及優惠專區 各作業主要成功情節之英文名稱事件對應###
+###活動及優惠專區主要成功情節之英文名稱事件對應###
 <p align="center"><img src="http://farm8.staticflickr.com/7518/15525486038_06634c2225_b.jpg"></p>
-###使用評論功能 各作業主要成功情節之英文名稱事件對應###
+###使用評論功能主要成功情節之英文名稱事件對應###
 <p align="center"><img src="http://farm8.staticflickr.com/7536/15525712997_7b9b496701_b.jpg"></p>
+###會員帳號系統主要成功情節之英文名稱事件對應###
+<p align="center"><img src="http://farm6.staticflickr.com/5601/15092578723_4614f56498_b.jpg"></p>
 
-
-###瀏覽展覽資訊 各作業事件之合約###
-<p align="center"><img src="http://farm4.staticflickr.com/3952/15091568573_01c8f2b4b9_b.jpg"></p>
-###新增展覽資訊作業 各作業事件之合約###
+***
+###拾壹、各作業事件之合約###
+###瀏覽展覽資訊事件之合約###
+<p align="center"><img src="http://farm4.staticflickr.com/3953/15091939484_fc35722bce_b.jpg"></p>
+###新增展覽資訊作業事件之合約###
 <p align="center"><img src="http://farm4.staticflickr.com/3945/15709020511_85aee86437_b.jpg"></p>
-###活動及優惠專區 各作業事件之合約###
+###活動及優惠專區事件之合約###
 <p align="center"><img src="http://farm8.staticflickr.com/7534/15526081130_7f806c0d90_b.jpg"></p>
-###使用評論功能 各作業事件之合約###
+###使用評論功能事件之合約###
 <p align="center"><img src="http://farm8.staticflickr.com/7502/15710926595_7020af770a_b.jpg"></p>
-###會員帳號系統 各作業事件之合約###
+###會員帳號系統事件之合約###
 <p align="center"><img src="http://farm4.staticflickr.com/3943/15687199416_701ba9a7d9_b.jpg"></p>
 
-
-###新增展覽資訊作業 各作業之系統循序圖###
+***
+###拾貳、各作業之系統循序圖###
+###瀏覽展覽資訊之系統循序圖###
+<p align="center"><img src="http://farm8.staticflickr.com/7537/15526479708_5f0184b343_b.jpg"></p>
+###新增展覽資訊作業之系統循序圖###
 <p align="center"><img src="http://farm8.staticflickr.com/7565/15525779297_c0b0a59756_b.jpg"></p>
-###活動及優惠專區 各作業之系統循序圖###
+###活動及優惠專區之系統循序圖###
 <p align="center"><img src="http://farm8.staticflickr.com/7479/15091028924_ff950e985a_b.jpg"></p>
-###使用評論功能 各作業之系統循序圖###
+###使用評論功能之系統循序圖###
 <p align="center"><img src="http://farm8.staticflickr.com/7481/15091611353_6794ff9f96_b.jpg"></p>
-###會員帳號系統 各作業之系統循序圖###
-<p align="center"><img src="http://farm6.staticflickr.com/5610/15525098409_c09e586715_b.jpg"></p>
+###會員帳號系統之系統循序圖###
+<p align="center"><img src="http://farm8.staticflickr.com/7524/15526024859_39a2ef3a43_b.jpg"></p>
