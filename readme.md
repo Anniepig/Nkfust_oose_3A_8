@@ -21,7 +21,7 @@
 
 
 ###肆、系統初步類別圖###
-
+<p align="center"><img src="http://farm8.staticflickr.com/7556/15711650775_ef4a3d4334_b.jpg"></p>
 
 ###瀏覽展覽資訊 使用案例描述###
 <p align="center"><img src="http://farm8.staticflickr.com/7522/15091609953_bc07f2accf_b.jpg"></p>
