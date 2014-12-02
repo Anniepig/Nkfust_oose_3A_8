@@ -10,9 +10,8 @@
 ##專題題目：藝文展覽即時資訊##
 ##目標：結合 Google map根據所在位置顯示出附近正舉辦的展覽，也可使用分類功能尋找，讓使用者能即時掌握各地的展覽資訊，且能透過此平台進行評論，並拿到較優惠的票券或其他活動優惠。##
 ***
-
 ###壹、利害關係人目標表###
-<p align="center"><img src="https://www.flickr.com/photos/125728258@N07/15091353473/in/photostream/player/"></p>
+<p align="center"><img src="https://www.flickr.com/photos/125728258@N07/15091353473"></p>
 ***
 ###貳、事件與使用案例表###
 <p align="center"><img src="http://farm4.staticflickr.com/3947/15526371618_f773b274b2_b.jpg"></p>
