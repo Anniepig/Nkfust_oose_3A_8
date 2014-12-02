@@ -128,3 +128,29 @@
 <p align="center"><img src="http://farm8.staticflickr.com/7481/15091611353_6794ff9f96_b.jpg"></p>
 ###會員帳號系統之系統循序圖###
 <p align="center"><img src="http://farm8.staticflickr.com/7524/15526024859_39a2ef3a43_b.jpg"></p>
+
+***
+###拾參、各作業之強韌圖###
+###瀏覽展覽資訊之強韌圖###
+<p align="center"><img src=""></p>
+###新增展覽資訊作業之強韌圖###
+<p align="center"><img src="http://farm8.staticflickr.com/7527/15744398388_9b64de1caa_b.jpg"></p>
+###活動及優惠專區之強韌圖###
+<p align="center"><img src="http://farm9.staticflickr.com/8637/15744541480_2f53375a86_b.jpg"></p>
+###使用評論功能之強韌圖###
+<p align="center"><img src="http://farm9.staticflickr.com/8600/15929845491_b3ac5e6ecf_b.jpg"></p>
+###會員帳號系統之強韌圖###
+<p align="center"><img src=""></p>
+
+***
+###拾肆、各作業之循序圖###
+###瀏覽展覽資訊之循序圖###
+<p align="center"><img src=""></p>
+###新增展覽資訊作業之循序圖###
+<p align="center"><img src=""></p>
+###活動及優惠專區之循序圖###
+<p align="center"><img src=""></p>
+###使用評論功能之循序圖###
+<p align="center"><img src="http://farm9.staticflickr.com/8672/15931148192_63440fcc9d_b.jpg"></p>
+###會員帳號系統之循序圖###
+<p align="center"><img src=""></p>
