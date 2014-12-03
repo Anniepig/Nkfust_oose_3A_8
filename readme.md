@@ -129,7 +129,7 @@
 ***
 ###拾參、各作業之強韌圖###
 ###瀏覽展覽資訊之強韌圖###
-<p align="center"><img src=""></p>
+<p align="center"><img src="http://farm8.staticflickr.com/7511/15315597113_f3bd3faac9_b.jpg"></p>
 ###新增展覽資訊作業之強韌圖###
 <p align="center"><img src="http://farm8.staticflickr.com/7527/15744398388_9b64de1caa_b.jpg"></p>
 ###活動及優惠專區之強韌圖###
