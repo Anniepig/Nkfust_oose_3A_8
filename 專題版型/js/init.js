@@ -67,7 +67,7 @@
 			}
 
 		// Sidebar height hack.
-			var $sc = $('#sidebar, #content'), tid;
+			var $sc = $('#content'), tid;
 
 			$window
 				.on('resize', function() {
