@@ -150,4 +150,4 @@
 ###使用評論功能之循序圖###
 <p align="center"><img src="http://farm9.staticflickr.com/8672/15931148192_63440fcc9d_b.jpg"></p>
 ###會員帳號系統之循序圖###
-<p align="center"><img src=""></p>
+<p align="center"><img src="http://farm8.staticflickr.com/7481/15312621774_12f306b780_b.jpg"></p>
