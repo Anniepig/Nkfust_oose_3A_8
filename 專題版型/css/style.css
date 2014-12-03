@@ -542,6 +542,7 @@
 			
 				.box.post .info
 				{
+					position: fixed;
 				}
 				
 					.box.post .info .stats
@@ -745,6 +746,10 @@
 
 	#sidebar
 	{
+		overflow-y: scroll;
+		overflow-x: hidden;
+		position: fixed;
+		height: 100%;
 		color: #aaa;
 		color: rgba(255,255,255,0.55);
 		text-shadow: -1px -1px 0px rgba(0,0,0,0.5);
